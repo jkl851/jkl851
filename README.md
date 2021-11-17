@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: kmcjkl851@gmail.com
 <div align="center">
  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20MC%20Kim's%20github!%20&fontSize=40&fontAlign=50&fontAlignY=35&fontColor=#B4B4DC)            
@@ -29,12 +31,11 @@
   
 
 <br/><br/>
+
 <table><tr><td valign="top" width="50%">
- </td><td valign="top" width="50%">
- 
  ![MC Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkl851&theme=default&show_icons=true)
+</td><td valign="top" width="50%">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkl851&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
 </td></tr></table>  
  
 <div align="center">
