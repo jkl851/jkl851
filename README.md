@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20MC%20Kim's%20github!%20&fontSize=40&fontAlign=50&fontAlignY=40&fontColor=#B4B4DC)            
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20MC%20Kim's%20github!%20&fontSize=40&fontAlign=50&fontAlignY=35&fontColor=#B4B4DC)            
  
 </div>
 
