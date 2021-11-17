@@ -33,13 +33,13 @@
 <br/><br/>
 
 <table><tr><td valign="top" width="50%">
- 
- ![MC Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkl851&theme=default&show_icons=true)
- 
+
+<img src="https://github-readme-stats.vercel.app/api?username=jkl851&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
 </td><td valign="top" width="50%">
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkl851&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkl851&hide_border=true&layout=compact&hide=html,css" align="left" style="width: 100%" />
+
 </td></tr></table>  
  
 <div align="center">
