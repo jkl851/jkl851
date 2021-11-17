@@ -7,8 +7,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjkl851%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)	
  </div>
  
- ![MC Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkl851&theme=default&show_icons=true)
- 
  
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,6 +27,8 @@
  <a href=kmcjkl851@gmail.com>
  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
+
+ ![MC Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkl851&theme=default&show_icons=true)
 <!--
 **jkl851/jkl851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
