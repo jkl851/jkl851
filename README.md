@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Welcome%20to%20MC%20Kim's%20github!%20&fontSize=40&fontAlign=50)                                   
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20MC%20Kim's%20github!%20&fontSize=40&fontAlign=50)                                   
 
 <br/><br/>
 
  
- <div>
+ <div align="center">
  
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
