@@ -29,11 +29,13 @@
   
 
 <br/><br/>
-<div align="center">
+<table><tr><td valign="top" width="50%">
+ </td><td valign="top" width="50%">
  
- ![MC Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkl851&theme=default&show_icons=true&card_width=100)
+ ![MC Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkl851&theme=default&show_icons=true)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkl851&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+ 
+</td></tr></table>  
  
 <div align="center">
  
