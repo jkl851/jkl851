@@ -31,8 +31,8 @@
 <br/><br/>
 <div align="center">
  
- ![MC Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkl851&theme=default&show_icons=true&card_width=150)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![MC Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkl851&theme=default&show_icons=true&card_width=100)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkl851&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  </div>
  
 <div align="center">
