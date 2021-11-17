@@ -25,7 +25,10 @@
  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
  
+ <br/><br/>
+ <a href=kmcjkl851@gmail.com>
  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
 <!--
 **jkl851/jkl851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
