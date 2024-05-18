@@ -7,10 +7,11 @@
 </a>
 
 <br/><br/>
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20MC%20Kim's%20github!%20&fontSize=40&fontAlign=50&fontAlignY=35&fontColor=#B4B4DC)            
- 
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20MC%20Kim's%20github!%20&fontSize=40&fontAlign=50&fontAlignY=35&fontColor=#B4B4DC)            
+
 </div>
 
 <br/><br/>
@@ -38,16 +39,13 @@
 
 <br/><br/>
 
+<div align="center">
 <table><tr><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=jkl851&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
-
 </td><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkl851&hide_border=true&layout=compact&hide=html,css" align="left" style="width: 90%" />
-
-</td></tr></table>  
- 
+</td></tr></table>
+</div>
 <div align="center">
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjkl851%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)	
