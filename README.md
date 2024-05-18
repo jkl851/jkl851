@@ -1,13 +1,14 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: kmcjkl851@gmail.com
-<div align="center">
- 
+
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
 
-</div>
+<br/><br/>
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20MC%20Kim's%20github!%20&fontSize=40&fontAlign=50&fontAlignY=35&fontColor=#B4B4DC)            
  
 </div>
